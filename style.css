@@ -5,7 +5,7 @@
 .wapper {
     text-align: center;
     margin: 0 auto;
-    max-width: 1000px;
+    max-width: 1100px;
     padding: 0px;
     background-color: rgba(255, 255, 255, 0.7);
 
@@ -79,7 +79,7 @@ h5 {
     font-family: 'Chewy', cursive;
     font-size: 1.8em;
     color: rgba(1, 71, 157, 1);
-    margin: 30px 0px;
+    margin: 30px 50px;
     padding: 10px;
 
 
@@ -170,7 +170,7 @@ li {
 }
 
 .blog-body p {
-    width: 900px;
+    width: 980px;
     text-align: justify;
     font-size: 1.05em;
 }
